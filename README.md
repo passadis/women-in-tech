@@ -25,6 +25,7 @@ Explore insights from industry leaders shaping the future of tech:
     <tr>
       <th width="45%">Session Title</th>
       <th width="30%">Speaker</th>
+      <th width="15%">Starts</th>
       <th width="25%">LinkedIn</th>
     </tr>
   </thead>
@@ -32,21 +33,25 @@ Explore insights from industry leaders shaping the future of tech:
     <tr>
       <td>An Old School Solution for a New Age of Challenges</td>
       <td>Devin Sarno</td>
+      <td>13:05 | UTC+2</td>
       <td><a href="https://www.linkedin.com/in/devin-e-sarno/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
     <tr>
       <td>Implementing Quality Assurance Best Practices in Azure DevOps Pipelines</td>
       <td>Harini Shankar</td>
+      <td>14:05 | UTC+2</td>
       <td><a href="https://www.linkedin.com/in/harinishankar/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
     <tr>
       <td>ASOUS: Empowering Clinical Research with AI-Driven Innovation</td>
       <td>Tia Warrick</td>
+      <td>15:05 | UTC+2</td>
       <td><a href="https://www.linkedin.com/in/tia-warrick-dhsc-mph-ccra-acrp-pm-516815128/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
     <tr>
       <td>LMW Coaching</td>
       <td>Lisa Wilson</td>
+      <td>16:05 | UTC+2</td>
       <td><a href="https://www.linkedin.com/in/lisamaywilson/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
   </tbody>
