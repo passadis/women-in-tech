@@ -1,6 +1,6 @@
 # 🚀 Women in Tech Event Website
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://your-username.github.io/repo-name/)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://passadis.github.io/women-in-tech/)  
 *A website for the "Empowering Women in Tech" online event hosted by Azure Innovators Hub.*
 
 ---
